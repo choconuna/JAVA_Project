@@ -22,6 +22,20 @@
 * IDE: Eclipse
 
 ## 화면 📱
-
+<div align="center">
+  <div>
+    <img src="Java_image/card1.png"  width="300" height="200"/>
+    <img src="Java_image/card2.png"  width="300" height="200"/>
+    <img src="Java_image/card3.png"  width="300" height="200"/>
+    <img src="Java_image/card4.png"  width="300" height="200"/>
+    <img src="Java_image/card5.png"  width="300" height="200"/>
+    <img src="Java_image/card6.png"  width="300" height="200"/>
+  </div>
+</div>
 
 ## 기능 🖤
+* 게임 방법 설명
+* 난이도 Easy, Normal, Hard 선택
+* 난이도마다 다른 게임 형식
+  * 다른 카드 수
+  * 다른 힌트 수
